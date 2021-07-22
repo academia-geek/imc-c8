@@ -1,0 +1,24 @@
+{
+  "name": "imc-c8",
+  "version": "1.0.0",
+  "description": "Proyecto IMC para implementación de Webpack y Babel.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/academia-geek/imc-c8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/academia-geek/imc-c8/issues"
+  },
+  "homepage": "https://github.com/academia-geek/imc-c8#readme"
+}
