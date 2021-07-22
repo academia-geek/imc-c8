@@ -4,7 +4,16 @@
   "description": "Proyecto IMC para implementación de Webpack y Babel.",
   "main": "index.js",
   "dependencies": {
-    "bootstrap": "^5.0.2"
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.8",
+    "babel-loader": "^8.2.2",
+    "bootstrap": "^5.0.2",
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
   },
   "devDependencies": {},
   "scripts": {
