@@ -44,13 +44,10 @@ class Comentario {
     
     categoriasPeticionFetch(){
         fetch('https://eonet.sci.gsfc.nasa.gov/api/v3/categories')
-        .then((response) => response.json())
+        .then(response => response.json())
         .then((data) => {
             console.log(data)
         })
-        .catch()
-        .finally()
-        
     }
 }
 
