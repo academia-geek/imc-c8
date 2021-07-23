@@ -7,6 +7,8 @@ class Estudiante{
         console.log(data)
         console.log("Hola!!!")
     }
+    
+    
 }
 
 export default Estudiante
